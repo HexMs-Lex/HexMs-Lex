@@ -7,7 +7,7 @@ on:
     # every 12 hours
     - cron: "0 */12 * * *"
 
-  # This command allows us to run the Action automatically from the Actions tab.
+  # This command allows us to run the Action manually from the Actions tab.
   workflow_dispatch:
   
   # Also run on every push on the main branch
@@ -32,11 +32,6 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          svg_dark_out_path: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          gif_snake_color: orange
-          gif_dots_color: "#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
