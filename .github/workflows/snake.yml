@@ -1,0 +1,28 @@
+name: Generate Snake Game from GitHub Contribution Grid
+
+on:
+  schedule:
+    # Lịch chạy workflow tự động. Ví dụ: Chạy mỗi 24 giờ
+    - cron: "0 */24 * * *"
+
+  workflow_dispatch: # Cho phép bạn chạy workflow thủ công từ tab Actions của GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Kiểm tra repository
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      # Tạo animation snake game từ lưới đóng góp
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.2.0
+
+      # Lưu kết quả dưới dạng GIF hoặc SVG
+      - name: Upload Snake Game as Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-game
+          path: ./snake.svg # Lưu kết quả dưới dạng file snake.svg
