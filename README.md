@@ -3,15 +3,21 @@
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100" height="100" />
 </p>
 
-# 👋 Hi there! I'm Alex
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Hi there! I'm Alex
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🚀 Introduction
 Welcome to my GitHub profile! I'm a passionate developer with expertise in web development and backend technologies. I love creating efficient, scalable solutions and continuously learning new technologies.
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 ### My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <table>
   <tr>
@@ -80,6 +86,10 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in web d
   </tr>
 </table>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ### GitHub Contribution
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/HexMs-Lex/HexMs-Lex/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
