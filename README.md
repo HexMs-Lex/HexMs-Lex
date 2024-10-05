@@ -1,5 +1,14 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100" height="100" />
+</p>
+
+# 👋 Hi there! I'm Alex
+
+## 🚀 Introduction
+Welcome to my GitHub profile! I'm a passionate developer with expertise in web development and backend technologies. I love creating efficient, scalable solutions and continuously learning new technologies.
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 ### My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
