@@ -1,13 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="100" height="100" />
-  <p>
-    If you need to yell, but do not scream<br/>
-    If you need to cry, but do not cry<br/>
-    If misfortune stirs your breast,<br/>
-    Making you feel sorry at any time,<br/>
-    It is missing just a breath
-  </p>
-</div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Hi there! I'm Alex
